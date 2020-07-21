@@ -2,7 +2,7 @@
   <div class="navbar">
     <div class="navbar-logo">
       <h1 class="text-logo">
-        <b><i>RUNNER</i></b>
+        <b><i>Title</i></b>
       </h1>
     </div>
     <div class="navbar-items">
