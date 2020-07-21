@@ -1,11 +1,13 @@
 <template>
-    <h1>Witaj</h1>
+    <div></div>
 </template>
+
 <script>
 export default {
-    name: 'home'
+
 }
 </script>
+
 <style scoped>
 
 </style>
